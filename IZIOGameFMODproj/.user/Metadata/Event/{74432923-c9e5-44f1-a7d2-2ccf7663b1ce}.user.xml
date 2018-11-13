@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{74432923-c9e5-44f1-a7d2-2ccf7663b1ce}">
-        <relationship name="selectables">
-            <destination>{9b759af9-0dfb-4601-bc21-036ffe9c4ec0}</destination>
-        </relationship>
         <relationship name="uiLastParameterSelection">
             <destination>{d01217c1-719d-411e-8ade-1bbcf809f853}</destination>
         </relationship>
@@ -15,7 +12,7 @@
     <object class="GroupTrack" id="{95581b4f-6a1c-4ab6-a229-fe3c236ec57e}"/>
     <object class="Timeline" id="{d01217c1-719d-411e-8ade-1bbcf809f853}">
         <property name="uiLastRulerScaleRatio">
-            <value>0.0052306293586617033</value>
+            <value>0.0037374748641595002</value>
         </property>
     </object>
     <object class="EventMixerMaster" id="{f1499aa5-d8a3-4f8b-b705-f0cb244bbf00}">
@@ -25,7 +22,7 @@
     </object>
     <object class="MixerBusEffectChain" id="{0ddc4e8b-8f51-4f2c-9955-2b1e8083dcd4}"/>
     <object class="MixerBusPanner" id="{f1ca71e0-a8c2-4cb4-83bb-0d413d6a2702}"/>
-    <object class="SingleSound" id="{a1bd79f3-1b4b-456b-a731-3732070f8c26}"/>
+    <object class="SingleSound" id="{f2927873-f927-4af4-9c90-b8e0a6aac02c}"/>
     <object class="EventMixerGroup" id="{c5059d95-9376-4ff5-8ac8-3c487202c6e6}"/>
     <object class="MixerBusEffectChain" id="{382b5a22-bc58-4b44-a9c8-7f8e34076ce1}"/>
     <object class="MixerBusPanner" id="{d492e1f7-f1eb-4710-a125-9f7c1b677601}"/>

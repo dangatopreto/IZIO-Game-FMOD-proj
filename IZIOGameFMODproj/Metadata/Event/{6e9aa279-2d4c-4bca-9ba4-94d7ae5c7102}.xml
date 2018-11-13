@@ -114,9 +114,6 @@
         <property name="timelockedOffset">
             <value>7.4000000000000004</value>
         </property>
-        <relationship name="modulators">
-            <destination>{1684c1bf-3b9f-49a5-ab98-c6f5218d00a2}</destination>
-        </relationship>
         <relationship name="audioFile">
             <destination>{43e6eb3e-6ba8-40d6-98c1-3c9c43d90808}</destination>
         </relationship>
@@ -137,11 +134,14 @@
     </object>
     <object class="EventMixerGroup" id="{c04d66a8-909a-4276-856d-dd5dd9b15ec3}">
         <property name="volume">
-            <value>-5</value>
+            <value>-9</value>
         </property>
         <property name="name">
             <value>Audio 1</value>
         </property>
+        <relationship name="modulators">
+            <destination>{b033ff4c-47b0-46d4-a22b-348b2ed6e33e}</destination>
+        </relationship>
         <relationship name="effectChain">
             <destination>{aa9a1539-2315-4191-86c2-b984c132a5bc}</destination>
         </relationship>
@@ -168,6 +168,9 @@
         </relationship>
     </object>
     <object class="EventMixerGroup" id="{d389ddd7-d334-493d-a9f1-f4f6fe8cd32e}">
+        <property name="volume">
+            <value>-2</value>
+        </property>
         <property name="name">
             <value>Audio 2</value>
         </property>
@@ -254,7 +257,7 @@
     </object>
     <object class="MixerBusPanner" id="{f51042bf-b8a7-4ba9-b214-87feb5139dee}"/>
     <object class="MixerBusFader" id="{44d2f50d-4baf-4c21-9cb5-5b07b2fb1389}"/>
-    <object class="ADSRModulator" id="{1684c1bf-3b9f-49a5-ab98-c6f5218d00a2}">
+    <object class="ADSRModulator" id="{b033ff4c-47b0-46d4-a22b-348b2ed6e33e}">
         <property name="nameOfPropertyBeingModulated">
             <value>volume</value>
         </property>
@@ -263,9 +266,6 @@
         </property>
         <property name="attackTime">
             <value>500</value>
-        </property>
-        <property name="releaseTime">
-            <value>2000</value>
         </property>
     </object>
     <object class="MixerBusEffectChain" id="{aa9a1539-2315-4191-86c2-b984c132a5bc}">

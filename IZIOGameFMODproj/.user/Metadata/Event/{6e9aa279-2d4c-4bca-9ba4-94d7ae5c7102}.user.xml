@@ -41,7 +41,7 @@
     <object class="MixerBusEffectChain" id="{f526207c-126f-4d77-8d0a-8ff11a765f47}"/>
     <object class="MixerBusPanner" id="{f51042bf-b8a7-4ba9-b214-87feb5139dee}"/>
     <object class="MixerBusFader" id="{44d2f50d-4baf-4c21-9cb5-5b07b2fb1389}"/>
-    <object class="ADSRModulator" id="{1684c1bf-3b9f-49a5-ab98-c6f5218d00a2}"/>
+    <object class="ADSRModulator" id="{b033ff4c-47b0-46d4-a22b-348b2ed6e33e}"/>
     <object class="MixerBusEffectChain" id="{aa9a1539-2315-4191-86c2-b984c132a5bc}"/>
     <object class="MixerBusPanner" id="{e161a76a-9676-4d1e-bb32-0f721d8fdeca}"/>
     <object class="SingleSound" id="{e0967c1f-b4ed-4738-98d5-faab0ce7a215}"/>
