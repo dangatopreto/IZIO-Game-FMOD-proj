@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{e1ab48ea-2a2b-4d43-92f2-4b2b717e927a}">
+        <property name="assetPath">
+            <value>Stuart Duffield - Soccer SFX/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{65641054-aae2-4448-92f6-ba651147e27c}</destination>
+        </relationship>
+    </object>
+</objects>

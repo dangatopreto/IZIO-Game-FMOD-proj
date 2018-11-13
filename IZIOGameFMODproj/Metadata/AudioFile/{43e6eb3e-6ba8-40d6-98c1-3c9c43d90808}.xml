@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{43e6eb3e-6ba8-40d6-98c1-3c9c43d90808}">
+        <property name="assetPath">
+            <value>Lagoa v2.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>193.90693877551021</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{65641054-aae2-4448-92f6-ba651147e27c}</destination>
+        </relationship>
+    </object>
+</objects>
