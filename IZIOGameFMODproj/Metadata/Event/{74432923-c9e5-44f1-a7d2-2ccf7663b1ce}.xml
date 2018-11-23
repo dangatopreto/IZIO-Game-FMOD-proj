@@ -5,7 +5,7 @@
             <value>INGAME_football_score_crowd_sfx</value>
         </property>
         <property name="outputFormat">
-            <value>2</value>
+            <value>1</value>
         </property>
         <relationship name="folder">
             <destination>{bdeeb32c-c0a9-4f69-aa9b-0fe6797f09a8}</destination>
@@ -117,7 +117,6 @@
         <relationship name="effects">
             <destination>{ab25327a-e65d-42b3-bd17-1bfe1e1e9aa0}</destination>
             <destination>{026a1fd2-545e-447a-a92a-a8853cd6d2c2}</destination>
-            <destination>{a7f44430-6903-46d0-9c84-cc9d58c0efab}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{d492e1f7-f1eb-4710-a125-9f7c1b677601}"/>
@@ -130,6 +129,5 @@
     <object class="MixerBusPanner" id="{b9a0a83d-c42e-49fe-aff1-709af595a3f3}"/>
     <object class="LoudnessMeter" id="{ab25327a-e65d-42b3-bd17-1bfe1e1e9aa0}"/>
     <object class="MixerBusFader" id="{026a1fd2-545e-447a-a92a-a8853cd6d2c2}"/>
-    <object class="SpatialiserEffect" id="{a7f44430-6903-46d0-9c84-cc9d58c0efab}"/>
     <object class="MixerBusFader" id="{0e457f2b-6808-4911-830c-30b13e527aeb}"/>
 </objects>

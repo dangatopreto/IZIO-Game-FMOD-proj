@@ -34,6 +34,5 @@
     <object class="MixerBusPanner" id="{5b2bf45b-0f8c-402a-a7d9-749652dd752b}"/>
     <object class="LoudnessMeter" id="{49116b6c-ef24-4ce5-ae7a-56e9da1796f2}"/>
     <object class="MixerBusFader" id="{b8bb4c51-a909-4f7f-be14-6aa00b24374c}"/>
-    <object class="SpatialiserEffect" id="{52937d40-0086-437d-8a49-041bb3f61257}"/>
     <object class="MixerBusFader" id="{0d8c9d8b-189e-4be2-a97f-4b2ba6cb7758}"/>
 </objects>

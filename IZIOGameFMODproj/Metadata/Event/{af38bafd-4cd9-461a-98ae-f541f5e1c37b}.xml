@@ -5,7 +5,7 @@
             <value>INGAME_football_hitpost_sfx</value>
         </property>
         <property name="outputFormat">
-            <value>2</value>
+            <value>1</value>
         </property>
         <relationship name="folder">
             <destination>{bdeeb32c-c0a9-4f69-aa9b-0fe6797f09a8}</destination>
@@ -123,7 +123,6 @@
         <relationship name="effects">
             <destination>{ec9e7741-0c87-4016-8b0b-2fc2bd9368f0}</destination>
             <destination>{9ff53834-38c2-4409-9115-78317a8636d9}</destination>
-            <destination>{7f4bb957-4ca9-4fcc-b6df-2dc1451a541e}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{31382fad-1cad-4b85-88d2-b0cd39ff7e16}"/>
@@ -144,6 +143,5 @@
     <object class="MixerBusPanner" id="{0c843673-a21f-42b3-876c-54f209a8860d}"/>
     <object class="LoudnessMeter" id="{ec9e7741-0c87-4016-8b0b-2fc2bd9368f0}"/>
     <object class="MixerBusFader" id="{9ff53834-38c2-4409-9115-78317a8636d9}"/>
-    <object class="SpatialiserEffect" id="{7f4bb957-4ca9-4fcc-b6df-2dc1451a541e}"/>
     <object class="MixerBusFader" id="{b4f4eca0-8826-4de0-adef-3f4ade880ed1}"/>
 </objects>
