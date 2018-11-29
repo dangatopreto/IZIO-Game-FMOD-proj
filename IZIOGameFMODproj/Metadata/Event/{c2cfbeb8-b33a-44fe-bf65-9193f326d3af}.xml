@@ -97,7 +97,7 @@
             <value>0.4480045351473923</value>
         </property>
         <property name="pitch">
-            <value>0.5</value>
+            <value>0.600000024</value>
         </property>
         <relationship name="modulators">
             <destination>{c6c491d9-f8d1-4984-9a51-a169ca375ede}</destination>
@@ -136,7 +136,7 @@
             <value>pitch</value>
         </property>
         <property name="amount">
-            <value>4</value>
+            <value>13</value>
         </property>
     </object>
     <object class="MixerBusEffectChain" id="{cdfc5b71-4851-4a5d-a09f-6cd3b5fbd797}">

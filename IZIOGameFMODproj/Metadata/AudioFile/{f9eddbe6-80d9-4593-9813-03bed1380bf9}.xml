@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.01.10.00">
-    <object class="AudioFile" id="{4bd966b9-277b-49a8-b8cc-19789158013e}">
+    <object class="AudioFile" id="{f9eddbe6-80d9-4593-9813-03bed1380bf9}">
         <property name="assetPath">
-            <value>Goalkeeper/swish.wav</value>
+            <value>Goalkeeper/goalkeeperIntro1.wav</value>
         </property>
         <property name="frequencyInKHz">
             <value>44.0999985</value>
         </property>
         <property name="channelCount">
-            <value>2</value>
+            <value>1</value>
         </property>
         <property name="length">
-            <value>0.31346938775510202</value>
+            <value>0.77900226757369617</value>
         </property>
         <relationship name="masterAssetFolder">
             <destination>{65641054-aae2-4448-92f6-ba651147e27c}</destination>
